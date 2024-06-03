@@ -1,0 +1,101 @@
+cliente_id,email,telefone,endereço,numero,nome_sobrenome,order_id,product_name,quantity,unit_price,order_date
+1,joao.silva@email.com,(11) 1234-5678,Rua das Flores,123,João Silva,56,Produto C,2,20,2024-04-25
+2,maria.santos@email.com,(11) 2345-6789,Avenida Principal,456,Maria Santos,51,Produto B,3,30,2024-04-20
+3,carlos.rocha@email.com,(11) 3456-7890,Travessa das Árvores,789,Carlos Rocha,35,Produto B,4,30,2024-04-04
+3,carlos.rocha@email.com,(11) 3456-7890,Travessa das Árvores,789,Carlos Rocha,88,Produto C,1,20,2024-05-27
+4,ana.costa@email.com,(11) 4567-8901,Rua dos Passarinhos,987,Ana Costa,37,Produto D,3,40,2024-04-06
+6,juliana.almeida@email.com,(11) 6789-0123,Quadra 2,321,Juliana Almeida,21,Produto D,2,40,2024-03-21
+6,juliana.almeida@email.com,(11) 6789-0123,Quadra 2,321,Juliana Almeida,83,Produto B,1,30,2024-05-22
+6,juliana.almeida@email.com,(11) 6789-0123,Quadra 2,321,Juliana Almeida,95,Produto B,4,30,2024-06-03
+8,andre.campos@email.com,(11) 8901-2345,Rua das Palmeiras,987,André Campos,10,Produto A,2,25,2024-03-10
+8,andre.campos@email.com,(11) 8901-2345,Rua das Palmeiras,987,André Campos,46,Produto A,4,25,2024-04-15
+8,andre.campos@email.com,(11) 8901-2345,Rua das Palmeiras,987,André Campos,77,Produto D,3,40,2024-05-16
+10,aline.carvalho@email.com,(11) 0123-4567,Alameda das Orquídeas,321,Aline Carvalho,64,Produto C,3,20,2024-05-03
+11,ricardo.ferreira@email.com,(11) 1234-5678,Rua das Begônias,789,Ricardo Ferreira,85,Produto D,2,40,2024-05-24
+12,beatriz.martins@email.com,(11) 2345-6789,Avenida dos Lírios,987,Beatriz Martins,3,Produto C,1,20,2024-03-03
+12,beatriz.martins@email.com,(11) 2345-6789,Avenida dos Lírios,987,Beatriz Martins,15,Produto B,4,30,2024-03-15
+12,beatriz.martins@email.com,(11) 2345-6789,Avenida dos Lírios,987,Beatriz Martins,80,Produto C,4,20,2024-05-19
+13,lucas.gomes@email.com,(11) 3456-7890,Travessa das Margaridas,654,Lucas Gomes,69,Produto D,3,40,2024-05-08
+14,marcia.lima@email.com,(11) 4567-8901,Rua das Violetas,321,Marcia Lima,28,Produto C,1,20,2024-03-28
+15,marcos.barbosa@email.com,(11) 5678-9012,Alameda dos Cravos,789,Marcos Barbosa,44,Produto C,3,20,2024-04-13
+18,carolina.sousa@email.com,(11) 8901-2345,Rua dos Ipês,321,Carolina Sousa,8,Produto A,1,25,2024-03-08
+19,leandro.pereira@email.com,(11) 9012-3456,Avenida dos Crisântemos,987,Leandro Pereira,23,Produto B,1,30,2024-03-23
+20,daniela.costa@email.com,(11) 0123-4567,Alameda das Hortênsias,654,Daniela Costa,48,Produto C,1,20,2024-04-17
+22,larissa.alves@email.com,(11) 2345-6789,Avenida dos Jardins,987,Larissa Alves,78,Produto A,1,25,2024-05-17
+23,jose.mendes@email.com,(11) 3456-7890,Travessa dos Lilases,654,José Mendes,18,Produto A,1,25,2024-03-18
+24,camila.monteiro@email.com,(11) 4567-8901,Rua dos Narcisos,321,Camila Monteiro,93,Produto D,1,40,2024-06-01
+26,tatiane.oliveira@email.com,(11) 6789-0123,Quadra 4,654,Tatiane Oliveira,62,Produto A,3,25,2024-05-01
+27,eduardo.almeida@email.com,(11) 7890-1234,Praça das Tulipas,321,Eduardo Almeida,6,Produto B,3,30,2024-03-06
+27,eduardo.almeida@email.com,(11) 7890-1234,Praça das Tulipas,321,Eduardo Almeida,43,Produto B,1,30,2024-04-12
+27,eduardo.almeida@email.com,(11) 7890-1234,Praça das Tulipas,321,Eduardo Almeida,68,Produto C,1,20,2024-05-07
+28,luana.marques@email.com,(11) 8901-2345,Rua das Orquídeas,987,Luana Marques,30,Produto A,2,25,2024-03-30
+29,rodrigo.silveira@email.com,(11) 9012-3456,Avenida das Amoras,654,Rodrigo Silveira,96,Produto C,2,20,2024-06-04
+30,natalia.correia@email.com,(11) 0123-4567,Alameda dos Manacás,321,Natalia Correia,54,Produto A,2,25,2024-04-23
+31,paulo.souza@email.com,(11) 1234-5678,Rua das Margaridas,987,Paulo Souza,61,Produto D,2,40,2024-04-30
+33,renato.lemos@email.com,(11) 3456-7890,Travessa dos Amores,321,Renato Lemos,87,Produto B,2,30,2024-05-26
+34,silvia.moreira@email.com,(11) 4567-8901,Rua dos Girassóis,987,Silvia Moreira,39,Produto B,2,30,2024-04-08
+35,fabio.santana@email.com,(11) 5678-9012,Alameda dos Ipês,654,Fabio Santana,79,Produto B,2,30,2024-05-18
+36,isabela.rodrigues@email.com,(11) 6789-0123,Quadra 5,321,Isabela Rodrigues,2,Produto B,2,30,2024-03-02
+36,isabela.rodrigues@email.com,(11) 6789-0123,Quadra 5,321,Isabela Rodrigues,26,Produto A,4,25,2024-03-26
+39,mariana.cavalcanti@email.com,(11) 9012-3456,Avenida dos Cravos,321,Mariana Cavalcanti,12,Produto C,3,20,2024-03-12
+39,mariana.cavalcanti@email.com,(11) 9012-3456,Avenida dos Cravos,321,Mariana Cavalcanti,66,Produto A,4,25,2024-05-05
+39,mariana.cavalcanti@email.com,(11) 9012-3456,Avenida dos Cravos,321,Mariana Cavalcanti,92,Produto C,2,20,2024-05-31
+41,fernanda.ferreira@email.com,(11) 1234-5678,Rua das Violetas,654,Fernanda Ferreira,86,Produto A,4,25,2024-05-25
+42,marcelo.silveira@email.com,(11) 2345-6789,Avenida dos Narcisos,321,Marcelo Silveira,9,Produto D,3,40,2024-03-09
+42,marcelo.silveira@email.com,(11) 2345-6789,Avenida dos Narcisos,321,Marcelo Silveira,24,Produto C,3,20,2024-03-24
+44,douglas.souza@email.com,(11) 4567-8901,Rua dos Girassóis,654,Douglas Souza,72,Produto C,2,20,2024-05-11
+45,danielle.mendes@email.com,(11) 5678-9012,Alameda dos Crisântemos,321,Danielle Mendes,17,Produto D,3,40,2024-03-17
+45,danielle.mendes@email.com,(11) 5678-9012,Alameda dos Crisântemos,321,Danielle Mendes,70,Produto A,2,25,2024-05-09
+47,amanda.melo@email.com,(11) 7890-1234,Praça dos Jardins,654,Amanda Melo,50,Produto A,2,25,2024-04-19
+48,roberta.costa@email.com,(11) 8901-2345,Rua dos Manacás,321,Roberta Costa,82,Produto A,3,25,2024-05-21
+49,guilherme.rocha@email.com,(11) 9012-3456,Avenida dos Jasmins,987,Guilherme Rocha,47,Produto B,2,30,2024-04-16
+50,vanessa.silva@email.com,(11) 0123-4567,Alameda dos Cravos,654,Vanessa Silva,27,Produto B,2,30,2024-03-27
+50,vanessa.silva@email.com,(11) 0123-4567,Alameda dos Cravos,654,Vanessa Silva,40,Produto C,4,20,2024-04-09
+50,vanessa.silva@email.com,(11) 0123-4567,Alameda dos Cravos,654,Vanessa Silva,99,Produto B,2,30,2024-06-07
+51,bruno.mendes@email.com,(11) 1234-5678,Rua das Violetas,321,Bruno Mendes,74,Produto A,2,25,2024-05-13
+52,simone.oliveira@email.com,(11) 2345-6789,Avenida dos Narcisos,987,Simone Oliveira,34,Produto A,2,25,2024-04-03
+52,simone.oliveira@email.com,(11) 2345-6789,Avenida dos Narcisos,987,Simone Oliveira,89,Produto D,3,40,2024-05-28
+54,juliana.monteiro@email.com,(11) 4567-8901,Rua dos Girassóis,321,Juliana Monteiro,57,Produto D,3,40,2024-04-26
+55,felipe.gomes@email.com,(11) 5678-9012,Alameda dos Crisântemos,987,Felipe Gomes,5,Produto D,2,40,2024-03-05
+57,alexandre.costa@email.com,(11) 7890-1234,Praça das Orquídeas,321,Alexandre Costa,11,Produto B,1,30,2024-03-11
+57,alexandre.costa@email.com,(11) 7890-1234,Praça das Orquídeas,321,Alexandre Costa,90,Produto A,2,25,2024-05-29
+58,patricia.carvalho@email.com,(11) 8901-2345,Rua dos Manacás,987,Patricia Carvalho,20,Produto C,4,20,2024-03-20
+58,patricia.carvalho@email.com,(11) 8901-2345,Rua dos Manacás,987,Patricia Carvalho,63,Produto B,1,30,2024-05-02
+59,gabriel.rodrigues@email.com,(11) 9012-3456,Avenida dos Jardins,654,Gabriel Rodrigues,53,Produto D,1,40,2024-04-22
+61,raquel.ferreira@email.com,(11) 1234-5678,Rua das Margaridas,987,Raquel Ferreira,38,Produto A,1,25,2024-04-07
+62,rafael.pinheiro@email.com,(11) 2345-6789,Avenida dos Flamboyants,654,Rafael Pinheiro,31,Produto B,3,30,2024-03-31
+64,jorge.moreira@email.com,(11) 4567-8901,Rua dos Girassóis,987,Jorge Moreira,14,Produto A,2,25,2024-03-14
+67,marcio.goncalves@email.com,(11) 7890-1234,Praça dos Lírios,987,Marcio Gonçalves,41,Produto D,2,40,2024-04-10
+67,marcio.goncalves@email.com,(11) 7890-1234,Praça dos Lírios,987,Marcio Gonçalves,100,Produto C,4,20,2024-06-08
+68,daniela.campos@email.com,(11) 8901-2345,Rua das Margaridas,654,Daniela Campos,59,Produto B,2,30,2024-04-28
+70,gustavo.andrade@email.com,(11) 0123-4567,Alameda dos Lírios,987,Gustavo Andrade,33,Produto D,1,40,2024-04-02
+70,gustavo.andrade@email.com,(11) 0123-4567,Alameda dos Lírios,987,Gustavo Andrade,73,Produto D,1,40,2024-05-12
+71,claudia.ferreira@email.com,(11) 1234-5678,Rua das Violetas,654,Claudia Ferreira,19,Produto B,2,30,2024-03-19
+73,fernanda.campos@email.com,(11) 3456-7890,Travessa das Tulipas,987,Fernanda Campos,55,Produto B,4,30,2024-04-24
+74,diego.souza@email.com,(11) 4567-8901,Rua dos Girassóis,654,Diego Souza,1,Produto A,3,25,2024-03-01
+76,jessica.fernandes@email.com,(11) 6789-0123,Quadra 9,987,Jessica Fernandes,52,Produto C,2,20,2024-04-21
+76,jessica.fernandes@email.com,(11) 6789-0123,Quadra 9,987,Jessica Fernandes,91,Produto B,3,30,2024-05-30
+76,jessica.fernandes@email.com,(11) 6789-0123,Quadra 9,987,Jessica Fernandes,97,Produto D,3,40,2024-06-05
+77,lucio.goncalves@email.com,(11) 7890-1234,Praça dos Jardins,654,Lucio Gonçalves,45,Produto D,2,40,2024-04-14
+77,lucio.goncalves@email.com,(11) 7890-1234,Praça dos Jardins,654,Lucio Gonçalves,60,Produto C,4,20,2024-04-29
+78,isabel.santos@email.com,(11) 8901-2345,Rua dos Manacás,321,Isabel Santos,25,Produto D,2,40,2024-03-25
+81,jaqueline.melo@email.com,(11) 1234-5678,Rua das Violetas,321,Jaqueline Melo,76,Produto C,2,20,2024-05-15
+82,luiz.oliveira@email.com,(11) 2345-6789,Avenida dos Narcisos,987,Luiz Oliveira,94,Produto A,2,25,2024-06-02
+83,patricia.andrade@email.com,(11) 3456-7890,Travessa das Tulipas,654,Patricia Andrade,7,Produto C,2,20,2024-03-07
+83,patricia.andrade@email.com,(11) 3456-7890,Travessa das Tulipas,654,Patricia Andrade,22,Produto A,3,25,2024-03-22
+85,larissa.silva@email.com,(11) 5678-9012,Alameda dos Crisântemos,987,Larissa Silva,65,Produto D,2,40,2024-05-04
+86,lucas.fernandes@email.com,(11) 6789-0123,Quadra 10,654,Lucas Fernandes,84,Produto C,3,20,2024-05-23
+87,josiane.goncalves@email.com,(11) 7890-1234,Praça dos Lírios,321,Josiane Gonçalves,36,Produto C,2,20,2024-04-05
+87,josiane.goncalves@email.com,(11) 7890-1234,Praça dos Lírios,321,Josiane Gonçalves,49,Produto D,3,40,2024-04-18
+88,roberto.campos@email.com,(11) 8901-2345,Rua das Margaridas,987,Roberto Campos,58,Produto A,1,25,2024-04-27
+89,ana.cavalcanti@email.com,(11) 9012-3456,Avenida dos Cravos,654,Ana Cavalcanti,16,Produto C,2,20,2024-03-16
+90,renato.fernandes@email.com,(11) 0123-4567,Alameda dos Lírios,321,Renato Fernandes,67,Produto B,2,30,2024-05-06
+92,marcelo.silva@email.com,(11) 2345-6789,Avenida dos Narcisos,654,Marcelo Silva,4,Produto A,4,25,2024-03-04
+93,aline.santos@email.com,(11) 3456-7890,Travessa das Tulipas,321,Aline Santos,42,Produto A,3,25,2024-04-11
+95,isabella.campos@email.com,(11) 5678-9012,Alameda dos Crisântemos,654,Isabella Campos,13,Produto D,1,40,2024-03-13
+95,isabella.campos@email.com,(11) 5678-9012,Alameda dos Crisântemos,654,Isabella Campos,81,Produto D,2,40,2024-05-20
+96,mateus.almeida@email.com,(11) 6789-0123,Quadra 11,321,Mateus Almeida,32,Produto C,2,20,2024-04-01
+96,mateus.almeida@email.com,(11) 6789-0123,Quadra 11,321,Mateus Almeida,75,Produto B,4,30,2024-05-14
+97,larissa.goncalves@email.com,(11) 7890-1234,Praça dos Jardins,987,Larissa Gonçalves,98,Produto A,1,25,2024-06-06
+98,andre.silva@email.com,(11) 8901-2345,Rua dos Manacás,654,Andre Silva,29,Produto D,3,40,2024-03-29
+100,leonardo.silveira@email.com,(11) 0123-4567,Alameda dos Cravos,987,Leonardo Silveira,71,Produto B,3,30,2024-05-10
